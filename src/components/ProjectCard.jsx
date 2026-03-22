@@ -29,7 +29,7 @@ export function ProjectCard({ p, T }) {
           <div style={{ display: "flex", gap: 10 }}>
             {[
               { ic: Ico.gh, label: "GitHub", href: p.github, bg: "transparent", border: T.border, color: T.text, hBorder: p.color, hColor: p.color, hBg: "transparent" },
-              { ic: Ico.ext, label: "Live Demo", href: p.live, bg: p.color, border: p.color, color: T.bg, hBorder: p.color, hColor: T.bg, hBg: p.color },
+              // { ic: Ico.ext, label: "Live Demo", href: p.live, bg: p.color, border: p.color, color: T.bg, hBorder: p.color, hColor: T.bg, hBg: p.color },
             ].map(({ ic, label, href, bg, border, color, hBorder, hColor, hBg }) => (
               <a key={label} href={href} target="_blank" rel="noreferrer"
                 style={{ display: "flex", alignItems: "center", gap: 6, background: bg, border: `1px solid ${border}`, borderRadius: 10, padding: "8px 14px", fontSize: 13, fontWeight: 600, color, textDecoration: "none", transition: "all .2s", fontFamily: "'Instrument Sans', sans-serif" }}
