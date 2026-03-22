@@ -24,7 +24,7 @@ export const PROJECTS = [
     features: ["JWT Auth & Role-Based Access Control", "Real-time inventory via Socket.io", "Shipment & logistics pipeline", "Multi-role dashboards"],
     tech: ["React", "Node.js", "Express", "MongoDB", "Socket.io", "Tailwind"],
     github: "https://github.com/chaudhary-223/Disaster-Material-Management-System-DMMS-",
-    live: "#",
+    // live: "#",
     color: "#06b6d4",
   },
   {
@@ -35,7 +35,7 @@ export const PROJECTS = [
     features: ["Search Engine Algorithm Updates", "Relevance-Based Ranking", "Efficient Query Handling", "Dynamic Ranking Simulation"],
     tech: ["C++", "STL", "DSA", "HTML/CSS", "MySQL"],
     github: "https://github.com/chaudhary-223/DSERS",
-    live: "#",
+    // live: "#",
     color: "#10b981",
   },
   {
@@ -46,7 +46,7 @@ export const PROJECTS = [
     features: ["TensorFlow interference detection", "Automated device blocking", "Live monitoring dashboard", "Low-latency C++ pipeline"],
     tech: ["Python", "C++", "TensorFlow", "Wireshark"],
     github: "https://github.com/upendarchaudhary",
-    live: "#",
+    // live: "#",
     color: "#a78bfa",
   },
 ];
