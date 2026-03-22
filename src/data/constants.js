@@ -23,7 +23,7 @@ export const PROJECTS = [
     desc: "A role-based, real-time disaster resource management platform engineered for high-pressure emergency operations — managing inventory, logistics, and cross-team coordination with live Socket.io data feeds.",
     features: ["JWT Auth & Role-Based Access Control", "Real-time inventory via Socket.io", "Shipment & logistics pipeline", "Multi-role dashboards"],
     tech: ["React", "Node.js", "Express", "MongoDB", "Socket.io", "Tailwind"],
-    github: "https://github.com/upendarchaudhary",
+    github: "https://github.com/chaudhary-223/Disaster-Material-Management-System-DMMS-",
     live: "#",
     color: "#06b6d4",
   },

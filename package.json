@@ -1,5 +1,5 @@
 {
-  "name": "upendar-portfolio",
+  "name": "y",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -22,5 +22,17 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.6",
     "vite": "^5.2.0"
-  }
+  },
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaudhary-223/Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaudhary-223/Portfolio/issues"
+  },
+  "homepage": "https://github.com/chaudhary-223/Portfolio#readme",
+  "description": ""
 }
