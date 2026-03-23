@@ -6,6 +6,8 @@ export const SKILLS = [
   { g: "Database",  items: ["MongoDB", "MySQL"] },
   { g: "Languages", items: ["JavaScript", "C++", "Python", "Java"] },
   { g: "Tools",     items: ["Git", "GitHub", "VS Code", "Postman"] },
+  { g: "Soft Skills",     items: ["Problem-Solving", "Team Player", "Adaptability"]},
+
 ];
 
 export const STATS = [
